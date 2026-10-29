@@ -14,4 +14,4 @@ I'm a bioengineer expanding into computer science to help bridge the gap between
 
 Connect with me
 
-LinkedIn · [Résumé](resume.pdf)
+[LinkedIn](https://linkedin.com/in/katharine-groeger/) · [Résumé](resume.pdf)
