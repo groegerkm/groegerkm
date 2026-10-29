@@ -14,4 +14,4 @@ I'm a bioengineer expanding into computer science to help bridge the gap between
 
 Connect with me
 
-LinkedIn · Résumé
+LinkedIn · [Résumé](resume.pdf)
